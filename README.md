@@ -1,2 +1,2 @@
-# exchainglobal
+# ExchainGlobal
 ERC20 EXG
